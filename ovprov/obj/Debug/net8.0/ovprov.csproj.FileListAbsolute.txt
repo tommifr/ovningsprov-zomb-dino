@@ -1,0 +1,14 @@
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\bin\Debug\net8.0\ovprov.exe
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\bin\Debug\net8.0\ovprov.deps.json
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\bin\Debug\net8.0\ovprov.runtimeconfig.json
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\bin\Debug\net8.0\ovprov.dll
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\bin\Debug\net8.0\ovprov.pdb
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\obj\Debug\net8.0\ovprov.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\obj\Debug\net8.0\ovprov.AssemblyInfoInputs.cache
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\obj\Debug\net8.0\ovprov.AssemblyInfo.cs
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\obj\Debug\net8.0\ovprov.csproj.CoreCompileInputs.cache
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\obj\Debug\net8.0\ovprov.dll
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\obj\Debug\net8.0\refint\ovprov.dll
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\obj\Debug\net8.0\ovprov.pdb
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\obj\Debug\net8.0\ovprov.genruntimeconfig.cache
+c:\Users\tommi.frykman\Desktop\nasan\ovprov\obj\Debug\net8.0\ref\ovprov.dll
